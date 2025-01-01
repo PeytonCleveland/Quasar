@@ -49,12 +49,12 @@
   </ol>
 </details>
 
-![Quasar](/assets/quasar.png)
+
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About Quasar
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Quasar](/assets/quasar.png)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
