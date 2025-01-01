@@ -23,4 +23,4 @@
   </p>
 </div>
 
-[![Quasar][quasar-image]](/assets/quasar.jpg)
+![Quasar](/assets/quasar.png)
